@@ -20,7 +20,7 @@ To automate and secure token distribution for core teams, increasing transparenc
 - Batch creation of schedules
 - Revoke or pause schedules
 - On-chain UI dashboard for tracking vesting progress
-- DAO-based schedule control and visibility
+- DAO-based schedule control and visibility durabel.
 
 ## Contract details
 0x536ABe314646aDf42e374d5Fa3Ba9E76B192655b![alt text](image.png)
