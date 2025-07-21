@@ -22,7 +22,8 @@ To automate and secure token distribution for core teams, increasing transparenc
 - On-chain UI dashboard for tracking vesting progress
 - DAO-based schedule control and visibility durabel.
 - ready for easily use.
-- ready for deployment. .
+- ready for deployment.
+- work in.
 
 ## Contract details
 0x536ABe314646aDf42e374d5Fa3Ba9E76B192655b![alt text](image.png)
