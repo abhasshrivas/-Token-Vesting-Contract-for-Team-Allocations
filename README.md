@@ -1,4 +1,4 @@
-# Token Vesting Contract for Team Allocations....!
+# Token Vesting Contract for Team Allocations,.
 
 ## 📖 Project Description-
 
