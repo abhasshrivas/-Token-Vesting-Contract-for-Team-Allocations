@@ -13,7 +13,7 @@ To automate and secure token distribution for core teams, increasing transparenc
 - Owner-only function to create vesting schedules
 - Configurable start, cliff, and duration
 - Claim function for beneficiaries to collect vested tokens
-- Prevents premature claims and over-allocation.?
+- Prevents premature claims and over-allocation.
 
 ## 🚀 Future Scope
 
