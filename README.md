@@ -6,7 +6,7 @@ This smart contract manages vesting schedules for ERC-20 token allocations to te
 
 ## 🌍 Project Vision-
 
-To automate and secure token distribution for core teams, increasing transparency and enforcing long-term incentives and interactive and very good.
+To automate and secure token distribution for core teams, increasing transparency and enforcing long-term incentives and interactive and very good...
 
 ### 🔑 Key Features --
 
