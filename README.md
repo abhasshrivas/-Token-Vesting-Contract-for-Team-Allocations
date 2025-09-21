@@ -23,7 +23,7 @@ To automate and secure token distribution for core teams, increasing transparenc
 - DAO-based schedule control and visibility durabel.
 - ready for easily use.
 - ready for deployment.
-- easy to use.
+- easy to use...
 
 ## Contract details
 0x536ABe314646aDf42e374d5Fa3Ba9E76B192655b![alt text](image.png)
