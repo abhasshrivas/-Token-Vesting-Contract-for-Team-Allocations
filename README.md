@@ -4,7 +4,7 @@
 
 This smart contract manages vesting schedules for ERC-20 token allocations to team members. It ensures tokens are released gradually over time based on a cliff and vesting duration. And more useful for others..
 
-## 🌍 Project Vision-
+## 🌍 Project Vision --
 
 To automate and secure token distribution for core teams, increasing transparency and enforcing long-term incentives and interactive and very good...
 
