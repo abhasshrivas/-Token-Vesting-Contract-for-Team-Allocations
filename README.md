@@ -2,7 +2,7 @@
 
 ## 📖 Project Description--
 
-This smart contract manages vesting schedules for ERC-20 token allocations to team members. It ensures tokens are released gradually over time based on a cliff and vesting duration. And more useful for others...
+This smart contract manages vesting schedules for ERC-20 token allocations to team members. It ensures tokens are released gradually over time based on a cliff and vesting duration. And more useful for others..
 
 ## 🌍 Project Vision --
 
