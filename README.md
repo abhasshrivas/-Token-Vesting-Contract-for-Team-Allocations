@@ -8,7 +8,7 @@ This smart contract manages vesting schedules for ERC-20 token allocations to te
 
 To automate and secure token distribution for core teams, increasing transparency and enforcing long-term incentives and interactive and very nice.
 
-### 🔑 Key Features --
+### 🔑 Key Features ---
 
 - Owner-only function to create vesting schedules..
 - Configurable start, cliff, and duration
